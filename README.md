@@ -11,7 +11,7 @@
 ### 🌐 About Me
 🧑🏻‍💻 I'm currently a **4th-Year Computer Science Student**  
 💾 Focused on: **Databases, APIs, Server-side logic**  
-🚀 Building with **Node.js, JavaScript, MySQL, and Python**  
+🚀 Building with **Node.js, JavaScript, MySQL**  
 ⚡ Fun fact: I love making automation tools that save time ⏱️  
 
 ---
