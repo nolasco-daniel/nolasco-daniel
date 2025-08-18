@@ -53,8 +53,4 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  <i><span style="color:#00bfff;">Thanks for visiting my profile!</span> 💻</i>
-</p>
