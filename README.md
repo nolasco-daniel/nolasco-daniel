@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00bfff?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Figma-00bfff?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIMP-000000?style=for-the-badge&logo=gimp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-00bfff?style=for-the-badge&logo=godot-engine&logoColor=white"/>
 </p>
 
 ---
@@ -52,5 +55,3 @@
     <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
-
-
