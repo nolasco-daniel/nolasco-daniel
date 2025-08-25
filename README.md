@@ -16,10 +16,12 @@
 ---
 
 ## 🔗 Connect with Me  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Dnlnlsco) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sudochino/?next=%2F) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-nolasco-0624b3355/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRpddPqjxTDJtWhBlfpQtfgHcSszGnGSnBzzhNSXxLLKWWrRmdWZfQNcMzjGGsHQXLqtfbG)  
+[![Facebook](https://img.shields.io/badge/Facebook-181717?style=flat-square&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/Dnlnlsco) 
+[![Instagram](https://img.shields.io/badge/Instagram-181717?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/sudochino/?next=%2F) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/daniel-nolasco-0624b3355/) 
+[![Email](https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your-email@gmail.com) 
+
+
 
 
 
