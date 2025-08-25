@@ -8,13 +8,12 @@
 
 ---
 
-<img align="left" alt="Skills Animation" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
+<img align="left" alt="Skills Animation" width="200" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
 
 ### 🌐 About Me
 🧑🏻‍💻 I'm currently a **4th-Year Computer Science Student**  
 💾 Focused on: **Databases, APIs, Server-side logic**  
 🚀 Building with **Node.js, JavaScript, MySQL**  
-⚡ Fun fact: I love making automation tools that save time ⏱️  
 
 ---
 
@@ -45,4 +44,3 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
-
