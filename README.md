@@ -3,18 +3,15 @@
 ---
 
 ### 🌐 About Me
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img alt="Skills Animation" width="250" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
-    </td>
-    <td width="50%" align="left">
-      🧑🏻‍💻 I'm currently a 4th-Year Computer Science Student <br><br>
-      💾 Focused on: Databases, APIs, Server-side logic <br><br>
-      🚀 Building with Node.js, JavaScript, MySQL
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img alt="Skills Animation" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif" width="250" />
+
+  <div>
+    🧑🏻‍💻 I'm currently a <b>4th-Year Computer Science Student</b> <br><br>
+    💾 Focused on: <b>Databases, APIs, Server-side logic</b> <br><br>
+    🚀 Building with <b>Node.js, JavaScript, MySQL</b>
+  </div>
+</div>
 
 ---
 
@@ -45,4 +42,3 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="26"/>
   </a>
 </p>
-
