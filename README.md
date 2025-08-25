@@ -1,10 +1,10 @@
 ## Hi, I'm Daniel 👋
 
-<img align="right" alt="Skills Animation" width="180" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
+<img align="right" alt="Skills Animation" width="120" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
 
 👨🏻‍💻 I'm currently a 4th-Year Computer Science Student <br/>
 💾 Focused on: Databases, APIs, Server-side logic <br/>
-🚀 Building with Node.js, JavaScript, MySQL <br/>
+🚀 Back-End Developer<br/>
 
 ---
 
@@ -25,3 +25,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nolasco-daniel) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-nolasco-0624b3355/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Dnlnlsco) 
+
