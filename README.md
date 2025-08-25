@@ -15,7 +15,6 @@
 </picture>
 
 
----
 
 ### 🌐 About Me
 🧑🏻‍💻 I'm currently a **4th-Year Computer Science Student**  
@@ -64,4 +63,5 @@
     <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
+
 
