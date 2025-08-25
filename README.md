@@ -16,10 +16,12 @@
 ---
 
 ## 🔗 Connect with Me  
-[![Facebook](https://img.shields.io/badge/Facebook-181717?style=flat-square&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/Dnlnlsco) 
-[![Instagram](https://img.shields.io/badge/Instagram-181717?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/sudochino/?next=%2F) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/daniel-nolasco-0624b3355/) 
-[![Email](https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your-email@gmail.com) 
+[![Facebook](https://i.ibb.co/pQpC7pN/facebook-pixel.png)](https://www.facebook.com/Dnlnlsco) 
+[![Instagram](https://i.ibb.co/LJfL6rQ/instagram-pixel.png)](https://www.instagram.com/sudochino/?next=%2F) 
+[![LinkedIn](https://i.ibb.co/tmhcsGy/linkedin-pixel.png)](https://www.linkedin.com/in/daniel-nolasco-0624b3355/) 
+[![Email](https://i.ibb.co/wJsvkP7/email-pixel.png)](mailto:your-email@gmail.com) 
+
+
 
 
 
