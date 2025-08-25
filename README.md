@@ -1,5 +1,5 @@
 ## Hi, I'm Daniel!
-<img align="right" alt="Skills Animation" width="120" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
+<img align="right" alt="Skills Animation" width="150" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
 
 👨🏻‍💻 I'm currently a 4th-Year Computer Science Student <br/>
 💾 Focused on: Databases, APIs, Server-side logic <br/>
@@ -20,6 +20,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sudochino/?next=%2F) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-nolasco-0624b3355/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRpddPqjxTDJtWhBlfpQtfgHcSszGnGSnBzzhNSXxLLKWWrRmdWZfQNcMzjGGsHQXLqtfbG)  
+
 
 
 
