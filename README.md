@@ -8,7 +8,6 @@
 
 ---
 
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_White.gif">
@@ -65,3 +64,4 @@
     <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
+
