@@ -3,11 +3,18 @@
 ---
 
 ### 🌐 About Me
-| ![Skills Animation](https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif) |  
-| :-- |
-| 🧑🏻‍💻 I'm currently a **4th-Year Computer Science Student** <br>  
-💾 Focused on: **Databases, APIs, Server-side logic** <br>  
-🚀 Building with **Node.js, JavaScript, MySQL** |
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img alt="Skills Animation" width="250" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
+    </td>
+    <td width="50%" align="left">
+      🧑🏻‍💻 I'm currently a **4th-Year Computer Science Student** <br><br>
+      💾 Focused on: **Databases, APIs, Server-side logic** <br><br>
+      🚀 Building with **Node.js, JavaScript, MySQL**
+    </td>
+  </tr>
+</table>
 
 ---
 
