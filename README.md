@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Daniel</h1>
+<h1 align="center">Hi, I'm Daniel Nolasco</h1>
 
 <p align="center">
   💻 <b>Back-End Developer</b> •  
@@ -8,56 +8,34 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_White.gif">
-  <img align="left" alt="Skills Animation" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_White.gif">
-</picture>
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="GIMP" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot Engine" width="50" height="50" style="margin: 10px;"/>
+</p>
+
+---
 
 ### 🌐 About Me
-🧑🏻‍💻 I'm currently a **4th-Year Computer Science Student**  
-💾 Focused on: **Databases, APIs, Server-side logic**  
-🚀 Building with **Node.js, JavaScript, MySQL**  
-⚡ Fun fact: I love making automation tools that save time ⏱️  
+
+- 🧑🏻‍💻 I'm currently a **4th-Year Computer Science Student**.  
+- 🌱 Exploring **Full-Stack Development**, **Game Development**, and **AI/ML**.  
+- 🛠 Actively working on **Motor Parts Hub Project**, **Gamified Learning Platform**, and **Pixelated Filipino-themed Farming Game**.  
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
-</p>
+### 📫 Contact
 
----
+- **GitHub:** [nolasco-daniel](https://github.com/nolasco-daniel)  
+- **Email:** *your_email@example.com*  
 
-### 📊 Most Used Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-40%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Python-30%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-15%25-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-3%25-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/PHP-5%25-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-7%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-### 🔗 Connect with Me
-<p align="center">
-  <a href="https://github.com/nolasco-daniel">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-nolasco-0624b3355/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/Dnlnlsco">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
