@@ -9,9 +9,9 @@
       <img alt="Skills Animation" width="250" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
     </td>
     <td width="50%" align="left">
-      🧑🏻‍💻 I'm currently a **4th-Year Computer Science Student** <br><br>
-      💾 Focused on: **Databases, APIs, Server-side logic** <br><br>
-      🚀 Building with **Node.js, JavaScript, MySQL**
+      🧑🏻‍💻 I'm currently a 4th-Year Computer Science Student <br><br>
+      💾 Focused on: Databases, APIs, Server-side logic <br><br>
+      🚀 Building with Node.js, JavaScript, MySQL
     </td>
   </tr>
 </table>
@@ -45,3 +45,4 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="26"/>
   </a>
 </p>
+
