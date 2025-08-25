@@ -33,18 +33,6 @@
 
 ---
 
-### 📊 Most Used Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-40%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Python-30%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-15%25-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-3%25-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/PHP-5%25-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-7%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
-
 ### 🔗 Connect with Me
 <p align="center">
   <a href="https://github.com/nolasco-daniel">
@@ -57,3 +45,4 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
+
