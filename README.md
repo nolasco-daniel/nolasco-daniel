@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi, I'm Daniel!;Hi, I'm Daniel!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Daniel!)](https://git.io/typing-svg)
 <img align="right" alt="Skills Animation" width="150" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
 
 👨🏻‍💻 I'm currently a 4th-Year Computer Science Student <br/>
