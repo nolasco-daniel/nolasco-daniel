@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel 👋
 
-<img align="right" alt="Skills Animation" width="200" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
+<img align="right" alt="Skills Animation" width="180" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
 
 👨🏻‍💻 I'm currently a 4th-Year Computer Science Student <br/>
 💾 Focused on: Databases, APIs, Server-side logic <br/>
