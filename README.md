@@ -10,7 +10,6 @@
   <img alt="Skills Animation" width="200" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif"/>
 </div>
 
----
 
 ### 🛠️ Tech Stack
 ![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -27,6 +26,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/sudochino/?next=%2F) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/daniel-nolasco-0624b3355/) 
 [![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:dn8000375@gmail.com) 
+
 
 
 
