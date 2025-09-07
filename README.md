@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Daniel!)](https://git.io/typing-svg)
+<img align="right" alt="Skills Animation" width="200" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
 
-| <img alt="Skills Animation" width="200" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif"/> | 👨🏻‍💻 I'm currently a **4th-Year Computer Science Student** <br/> 💾 Focused on: **Databases, APIs, Server-side logic** <br/> 🚀 **Back-End Developer** |
-|---|---|
-
----
+👨🏻‍💻 I'm currently a 4th-Year Computer Science Student <br/>
+💾 Focused on: Databases, APIs, Server-side logic <br/>
+🚀 Back-End Developer<br/>
 
 ### 🛠️ Tech Stack
 ![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white) 
