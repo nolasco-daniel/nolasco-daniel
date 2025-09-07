@@ -1,44 +1,46 @@
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Daniel!)](https://git.io/typing-svg)
+# 🖐 Hi, I'm Daniel  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Daniel!)](https://git.io/typing-svg)  
 <img align="right" alt="Skills Animation" width="200" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif">
 
-👨🏻‍💻 I'm currently a 4th-Year Computer Science Student <br/>
-💾 Focused on: Databases, APIs, Server-side logic <br/>
-🚀 Back-End Developer<br/>
+👨🏻‍💻 I'm currently a **4th-Year Computer Science Student** <br/>  
+💾 Focused on: **Databases, APIs, Server-side logic** <br/>  
+🚀 **Back-End Developer**  
 
-### 🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 ![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000) 
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) 
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nolasco-daniel&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nolasco-daniel&layout=compact&theme=radical)  
+
+---
+
+## 📈 Activity Graph  
+[![Daniel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nolasco-daniel&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
+---
+
+## 🎮 Hobbies & Interests  
+- 🎸 Playing guitar  
+- 🎮 Pixel Game Development (Godot)  
+- ☕ Milk Tea Lover  
 
 ---
 
 ## 🔗 Connect with Me  
-[![Facebook](https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/Dnlnlsco) 
-[![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/sudochino/?next=%2F) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/daniel-nolasco-0624b3355/) 
-[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:dn8000375@gmail.com) 
+![Profile Views](https://komarev.com/ghpvc/?username=nolasco-daniel&color=blue&style=flat-square)  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![Facebook](https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/Dnlnlsco)  
+[![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/sudochino/?next=%2F)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/daniel-nolasco-0624b3355/)  
+[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:dn8000375@gmail.com)  
