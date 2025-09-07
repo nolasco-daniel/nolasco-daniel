@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Daniel!)](https://git.io/typing-svg)
 
-👨🏻‍💻 I'm currently a **4th-Year Computer Science Student** 
+<p align="center" style="font-size:14px; font-weight:300; line-height:1.6;">
+  👨🏻‍💻 I'm currently a 4th-Year Computer Science Student <br/>  
+  💾 Focused on: Databases, APIs, Server-side logic <br/>  
+  🚀 Back-End Developer  
+</p>
 
-💾 Focused on: **Databases, APIs, Server-side logic** 
-
-🚀 **Back-End Developer**  
 
 <div align="center">
   <img alt="Skills Animation" width="200" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif"/>
@@ -27,5 +28,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/sudochino/?next=%2F) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/daniel-nolasco-0624b3355/) 
 [![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:dn8000375@gmail.com) 
+
 
 
