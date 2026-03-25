@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img alt="Skills Animation" width="200" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif"/>
+  <img alt="Skills Animation" width="100%" style="max-width:400px;" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif"/>
 </div>
 
 ### 🛠️ Tech Stack
