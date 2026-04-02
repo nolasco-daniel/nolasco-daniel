@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Daniel!)](https://git.io/typing-svg)
 
 <p align="" style="font-size:14px; font-weight:300; line-height:1.6;">
-</p>
 
 <div align="center">
   <img alt="Skills Animation" width="100%" style="max-width:400px;" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif"/>
