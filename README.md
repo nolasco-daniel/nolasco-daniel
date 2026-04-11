@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stackkkkkkkkkksdfs
+### 🛠️ Tech Stackkkkkkkkkksdfsasd
 
 **🎨 Frontend**
 
