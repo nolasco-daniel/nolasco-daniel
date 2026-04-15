@@ -5,8 +5,8 @@
 </div>
 
 ---
-k
-### 🛠️ Tech Stackklkkkkkk
+
+### 🛠️ Tech Stack
 
 
 **🎨 Frontend**
