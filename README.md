@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Tech Stackklkk
-k
+kk
 
 **🎨 Frontend**
 
