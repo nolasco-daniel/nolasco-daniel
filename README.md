@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stackklb
+### 🛠️ Tech Stackklbb
 
 **🎨 Frontend**
 
