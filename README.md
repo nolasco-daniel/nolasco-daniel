@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stackqwedg
+### 🛠️ Tech Stackqwedgcvb
 
 **🎨 Frontend**
 
