@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stackqwedgcvb35f3143f
+### 🛠️ Tech Stackqwedgcvb35f3143fdgb4t
 
 **🎨 Frontend**
 
