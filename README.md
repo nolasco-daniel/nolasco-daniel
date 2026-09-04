@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stacks12aqwe12342
+### 🛠️ Tech Stacks12aqwe1234212313
 
 **🎨 Frontend**
 
