@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stackas009hds
+### 🛠️ Tech Stack
 
 **🎨 Frontend**
 
