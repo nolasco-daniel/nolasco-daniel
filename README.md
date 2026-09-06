@@ -1,25 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Daniel!)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/header.svg" width="100%" alt="Terminal Boot">
+<div align="center">
+  <img alt="Skills Animation" width="100%" style="max-width:400px;" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif"/>
+</div>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/about.svg" width="100%" alt="Terminal Cat">
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/skills.svg" width="100%" alt="Terminal Skills">
-
-<br/>
-
-<img src="https://ryme.md/api/render/terminal-github-stats?u=nolasco-daniel&bg=0a0a0b&fg=e7e7ea&accent=4ade80&muted=5a5a64" width="100%" alt="Terminal GitHub">
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/footer.svg" width="100%" alt="Terminal Logout">
-<br/>
-
-
+---
 
 ### 🛠️ Tech Stack
 
