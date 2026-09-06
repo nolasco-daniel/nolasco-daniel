@@ -1,7 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Daniel!)](https://git.io/typing-svg)
 
-![terminal-header-neon-green](https://readmeforge.natrajx.in/api/header?name=Alice+Dev&title=Backend+Engineer&tagline=Rust+%C2%B7+Go+%C2%B7+Distributed+Systems&metal=neon-green&style=terminal&height=260)
----
+<img src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/header.svg" width="100%" alt="Terminal Boot">
+
+<br/>
+
+
 
 ### 🛠️ Tech Stack
 
