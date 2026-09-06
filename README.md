@@ -1,8 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Daniel!)](https://git.io/typing-svg)
 
-<div align="center">
-  <img alt="Skills Animation" width="100%" style="max-width:400px;" src="https://raw.githubusercontent.com/nolasco-daniel/nolasco-daniel/main/Skills_Animation_Dark.gif"/>
-</div>
+## Maintainer profile
+
+<p><code>nolasco-daniel@github:~$ whoami</code></p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/hero?username=nolasco-daniel&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143855546%3Fu%3D1ea3a240dc06292c84e459a4772722cd75f194cb%26v%3D4&style=terminal" alt="nolasco-daniel hero visual" />
+</p>
+
+**Daniel Nolasco*
 
 ---
 
