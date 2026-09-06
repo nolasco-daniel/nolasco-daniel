@@ -3,7 +3,7 @@
 <p><code>nolasco-daniel@github:~$ whoami</code></p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=nfnnjfbcbcbcdjrjd-beep&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325556258%3Fv%3D4&style=terminal" alt="nfnnjfbcbcbcdjrjd-beep hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=nolasco-daniel&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325556258%3Fv%3D4&style=terminal" alt="nfnnjfbcbcbcdjrjd-beep hero visual" />
 </p>
 
 
