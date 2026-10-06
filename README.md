@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stack12345678910
+### 🛠️ Tech Stack
 
 **🎨 Frontend**
 
